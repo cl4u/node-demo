@@ -1,2 +1,2 @@
 # node-demo
-some demos about node
+学习nodejs，并做一些demo。
